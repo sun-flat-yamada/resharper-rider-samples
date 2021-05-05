@@ -1,4 +1,4 @@
-﻿namespace JetBrains.ReSharper.Koans.Navigation
+namespace JetBrains.ReSharper.Koans.Navigation
 {
     // 前後の操作箇所の間を移動する操作をしてみます。
     //
