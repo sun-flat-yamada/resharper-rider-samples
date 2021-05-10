@@ -2,12 +2,11 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/.idea.resharper-rider-samples.iml
 /modules.xml
-/projectSettingsUpdater.xml
+/.idea.JetBrains.Space.iml
 /contentModel.xml
-# Datasource local storage ignored files
-/dataSources/
+/projectSettingsUpdater.xml
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/aws.xml
